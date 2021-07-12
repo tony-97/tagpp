@@ -1,0 +1,6 @@
+-std=c++17
+-W
+-Wall
+-Wextra
+-Wpedantic
+-pedantic
